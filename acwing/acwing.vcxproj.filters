@@ -45,5 +45,11 @@
     <ClCompile Include="DFS-n皇后问题-原始.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试wulie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

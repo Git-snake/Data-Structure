@@ -15,19 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="串-KMP.cpp">
+    <ClCompile Include="二叉树的遍历.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="串-暴力.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="串-朴素.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="串的实现.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="串-KMP优化.cpp">
+    <ClCompile Include="中序递归线索化.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

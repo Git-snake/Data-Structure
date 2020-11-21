@@ -55,7 +55,7 @@ int main()
 	cin >> M.mu >> M.nu >> M.tu;
 	cout << "请输入非零元素所在的<<行 列 数值>>(请确保输入的数据合法)：" << endl;
 	for (size_t i = 1; i <= M.tu; i++)
-		cin >> M.data[i].i >> M.data[i].j >> M.data[i].e;	
+		cin >> M.data[i].i >> M.data[i].j >> M.data[i].e;
 
 	cout << "该稀疏矩阵为:" << endl;
 	T_puts(M);
