@@ -14,7 +14,7 @@ n-皇后问题是指将 n 个皇后放在 n∗n 的国际象棋棋盘上，
 const int N = 20;
 int n;
 char g[N][N];
-bool row[N],col[N], dg[N], udg[N];//行 正对角线 反对角线
+bool row[N],col[N], dg[N], udg[N];//行 列 正对角线 反对角线
 void dfs(int x,int y,int s)
 {
 	if (y == n)y = 0, x++;

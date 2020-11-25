@@ -15,7 +15,7 @@ n*n!
 const int N = 20;
 int n;
 char g[N][N];
-bool col[N], dg[N], udg[N];//行 正对角线 反对角线
+bool col[N], dg[N], udg[N];//列 正对角线 反对角线
 void dfs(int u)
 {
 	if (u == n)

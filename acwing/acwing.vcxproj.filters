@@ -45,10 +45,10 @@
     <ClCompile Include="DFS-n皇后问题-原始.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="while.cpp">
+    <ClCompile Include="测试wulie.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="测试wulie.cpp">
+    <ClCompile Include="输出单词.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
