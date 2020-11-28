@@ -85,7 +85,6 @@ int main()
 {
     title();
     welcom();
-
 }
 
 void Intersection(int a[], int n, int b[], int m )
