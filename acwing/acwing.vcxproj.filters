@@ -51,5 +51,11 @@
     <ClCompile Include="输出单词.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最长连续不重复子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01背包.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

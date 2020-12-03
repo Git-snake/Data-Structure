@@ -18,5 +18,11 @@
     <ClCompile Include="邻接矩阵表示图.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="邻接多重表表示图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="邻接表表示图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
