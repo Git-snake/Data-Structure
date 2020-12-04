@@ -24,5 +24,8 @@
     <ClCompile Include="邻接表表示图.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="prim算法求最小生成树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -43,7 +43,7 @@ typedef struct
 
 bool visited[MAX_VERTEX_NUM];		//访问标志数组
 
-Status LocateVex(MGraph G, int v)		//返回该点在图中位置
+Status LocateVex(MGraph G, char v)		//返回该点在图中位置
 {
 	for (int i = 0; i < G.vexnum; i++)	//构造顶点向量
 		if (v == G.vexs[i])
@@ -57,7 +57,7 @@ Status CreateGraphUDN(MGraph& G)		//构建无向网,邻接矩阵表示方法
 	VertexType v1, v2;
 	InfoType IncInfo;
 	VRType w;
-	cout << "请依次输入无向网G的顶点数，弧数,弧上是否存在相关信息空格（存在输入1不存在输入0）隔开" << endl;
+	cout << "请依次输入无向网G的顶点数，弧数,弧上是否存在相关信息（存在输入1不存在输入0）空格隔开" << endl;
 	cin >> G.vexnum >> G.arcnum >> IncInfo;
 	cout << "请依次输入无向网G的顶点名称，用空格隔开" << endl;
 	for (int i = 0; i < G.vexnum; i++)	//构造顶点向量
