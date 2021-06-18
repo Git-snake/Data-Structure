@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "离散数学", "离散数学\离散数学.vcxproj", "{22570D81-F4E1-4802-8A1B-A5CED762F66A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22570D81-F4E1-4802-8A1B-A5CED762F66A}.Debug|x64.ActiveCfg = Debug|x64
+		{22570D81-F4E1-4802-8A1B-A5CED762F66A}.Debug|x64.Build.0 = Debug|x64
+		{22570D81-F4E1-4802-8A1B-A5CED762F66A}.Debug|x86.ActiveCfg = Debug|Win32
+		{22570D81-F4E1-4802-8A1B-A5CED762F66A}.Debug|x86.Build.0 = Debug|Win32
+		{22570D81-F4E1-4802-8A1B-A5CED762F66A}.Release|x64.ActiveCfg = Release|x64
+		{22570D81-F4E1-4802-8A1B-A5CED762F66A}.Release|x64.Build.0 = Release|x64
+		{22570D81-F4E1-4802-8A1B-A5CED762F66A}.Release|x86.ActiveCfg = Release|Win32
+		{22570D81-F4E1-4802-8A1B-A5CED762F66A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71EF69A9-6908-46EC-8637-6DD900F9A10A}
+	EndGlobalSection
+EndGlobal
